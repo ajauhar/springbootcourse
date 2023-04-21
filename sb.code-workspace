@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "product-service"
+		},
+		{
+			"path": "order-service"
+		},
+		{
+			"path": "inventory-service"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.dependency.packagePresentation": "flat",
+		"maven.view": "flat"
+	}
+}
